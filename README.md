@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Vimalnash
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to become full-stack web developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vimalnash/Vimalnash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Avinash Arularasu.
+- 👀 I’m interested in programming with a skill set in HTML5, CSS3, Javascript, Reactjs, Nodejs, Expressjs, MongoDB, SQL, Python Basics.
+- 🌱 I’m currently looking for a role were I can implement my FullStackDevelopment Skills and get hands on experience and further developing my skills into the world of AI and thus helping not only to improve my skills, also to improve the company growth where I am with...
+- 📫 Reach me at vimalnash@gmail.com
